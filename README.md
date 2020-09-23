@@ -4,8 +4,8 @@ Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
 # Specifications:
 * CPU: Intel Core i3-5005U
 * GPU: 
- - Intel HD Graphics 5500
- - NVIDIA GeForce 920M
+  - Intel HD Graphics 5500
+  - NVIDIA GeForce 920M
 * Audio: ALC255
 * Wi-Fi: Intel® Dual Band Wireless-AC 3165
 * Bluetooth: Intel Bluetooth 4.0
