@@ -29,6 +29,7 @@ Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
 - [x] Ethernet
 - [x] Bluetooth
 - [x] iCloud - Facetime - iMessage - Siri
+- [x] Airport
 - [x] CPU power management
 - [x] Webcam
 - [x] All USB ports
