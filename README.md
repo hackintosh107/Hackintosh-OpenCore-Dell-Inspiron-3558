@@ -1,5 +1,5 @@
 # Hackintosh-Opencore-Dell-Inspiron-3558
-Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
+i3-5005U, Intel HD Graphics 5500
 
 # Specifications:
 * CPU: Intel Core i3-5005U
@@ -18,7 +18,6 @@ Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
 # Working:
 - [x] Intel HD Graphics 5500
 - [x] Brightness slider
-- [x] Night shift
 - [x] Speaker
 - [x] Headphones (with ComboJack)
 - [x] Internal microphone
@@ -28,11 +27,9 @@ Intel Broadwell CPUs, IGPU: Intel HD Graphics 5500
 - [x] Wi-Fi (with Heliport)
 - [x] Ethernet
 - [x] Bluetooth
-- [x] iCloud - Facetime - iMessage - Siri
-- [x] Airport
 - [x] CPU power management
 - [x] Webcam
-- [x] All USB ports
+- [x] USB ports
 - [ ] NVIDIA GeForce 920M **(Disabled)**
 
 # SMBIOS:
