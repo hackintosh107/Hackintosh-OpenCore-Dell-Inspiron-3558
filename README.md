@@ -1,5 +1,5 @@
 # Hackintosh-Opencore-Dell-Inspiron-3558
-i3-5005U, Intel HD Graphics 5500
+Intel Core i3-5005U, Intel HD Graphics 5500
 
 # Specifications:
 * CPU: Intel Core i3-5005U
