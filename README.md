@@ -3,9 +3,7 @@ Intel Core i3-5005U, Intel HD Graphics 5500
 
 # Specifications:
 * CPU: Intel Core i3-5005U
-* GPU: 
-  - Intel HD Graphics 5500
-  - NVIDIA GeForce 920M
+* GPU: Intel HD Graphics 5500
 * Audio: ALC255
 * Wi-Fi: Intel® Dual Band Wireless-AC 3165
 * Bluetooth: Intel Bluetooth 4.0
@@ -30,7 +28,6 @@ Intel Core i3-5005U, Intel HD Graphics 5500
 - [x] CPU power management
 - [x] Webcam
 - [x] USB ports
-- [ ] NVIDIA GeForce 920M **(Disabled)**
 
 # SMBIOS:
 MacBookPro12,1
