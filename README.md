@@ -11,7 +11,7 @@ Intel Core i3-5005U, Intel HD Graphics 5500
 * Touchpad: Dell TouchPad
 
 # Version: 
-* Opencore: 0.6.2
+* OpenCore: 0.6.2
 
 # Working:
 - [x] Intel HD Graphics 5500
